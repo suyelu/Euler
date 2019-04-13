@@ -3,8 +3,8 @@
 ```bash
 .
 ├── a
-├── P1
+├── P1         #dir for p2
 │   └── a.c
 ├── README.md
-└── sum.c
+└── sum.c      #sum 
 ```
